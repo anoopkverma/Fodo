@@ -9,5 +9,6 @@ public class Test {
 
     public static void main(String[] args) {
         sender.send();
+        System.out.println("0");
     }
 }
